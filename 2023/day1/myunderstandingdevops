@@ -1,0 +1,18 @@
+/# 
+What is devops?
+DevOps is all about the unification and automation of processes, and DevOps engineers are instrumental in combining code, application maintenance, and application management. 
+All of these tasks rely on understanding not only development life cycles, but DevOps culture, and its practices, and tools.
+/#
+Why DevOps is Important ?
+Before devops, the development and operation team worked in complete isolation.
+Testing and deployment were isolated activities done after design-build, hence they consumed more time
+than  actual build cycles.
+Instead of building the project team members spend enarmous amount of time in testing, deploying, desigining
+the project.
+Spent more time of human errors due to manual code deployment.
+Operation and coding teams are not available at the same time causing further delays.
+/#
+What is Automation, Scaling, Infrastructure
+Automating the code deployment process with out any intruption for example CI/CD pipeline.
+Scalability :- It is possible to scale the application easily when you are expecting a traffic and it is also easier to downgrade if you are have a lot of resources which are not getting used currently.
+Availability :- By using devops tools and technologies, your product will be highly available for end customers to user.
